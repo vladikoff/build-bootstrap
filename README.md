@@ -3,4 +3,6 @@ build-bootstrap
 
 Customizable build system for Bootstrap.
 
-Deprecated, we now use [Assemble](https://github.com/sellside/assemble) for building Bootstrap.
+## Deprecated!
+
+**Sellside now uses [Assemble](https://github.com/sellside/assemble) for building Bootstrap.**
