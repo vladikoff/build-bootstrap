@@ -1,10 +1,10 @@
 {
   "name": "build-bootstrap",
   "description": "DEPRECATED! use Assemble instead! http://github.com/assemble/assemble",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "homepage": "https://github.com/jonschlinkert/build-bootstrap",
   "author": {
-    "name": "build-bootstrap",
+    "name": "jonschlinkert",
     "url": "https://github.com/jonschlinkert/build-bootstrap"
   },
   "repository": {
